@@ -1,0 +1,13 @@
+{
+    "server": "0.0.0.0",
+    "port_password": {
+        "13111": "PASSWORD",
+        "13112": "PASSWORD",
+        "13113": "PASSWORD",
+        "13114": "PASSWORD",
+        "13115": "PASSWORD"
+    },
+    "local_port": 1080,
+    "timeout": 300,
+    "method": "aes-256-cfb"
+}
