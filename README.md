@@ -3,5 +3,5 @@
 Install shadowsocks on centos
 
 ```
-./install-on-centos.sh
+sh install-on-centos.sh
 ```
